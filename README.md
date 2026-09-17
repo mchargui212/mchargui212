@@ -1,51 +1,51 @@
 # 👋 Chargui
 
-**💻 Développeur Java & C# | 🎯 POO • Architecture • Bases de données | 📍 Strasbourg**
+**💻 Étudiant en BUT Informatique | Java & C# | 🎯 POO • Architecture • Bases de données | 📍 Strasbourg**
 
 ---
 
 ## À propos
 
-Développeur en formation à l'IUT Robert Schuman passionné par la conception d'architectures logicielles robustes et le code bien structuré.
+Étudiant en BUT Informatique à l'IUT Robert Schuman, je m'intéresse au développement logiciel, à la conception d'applications et à l'écriture de code clair et structuré.
+
+Je cherche à développer mes compétences à travers des projets académiques et personnels, notamment en Java, C# et bases de données.
 
 ---
 
 ## 🛠️ Compétences
 
-**Langages:** Java • C# • Python • SQL
+**Langages :** Java • C# • Python • SQL
 
-**Outils:** Git • JUnit • Maven • SQLite • WinForms
+**Outils :** Git • JUnit • Maven • SQLite • WinForms
 
-**Concepts:** POO • Design Patterns • UML • Tests unitaires • Architecture MVC
+**Concepts :** POO • UML • Design Patterns • Tests unitaires • Architecture MVC
 
 ---
 
 ## 📂 Projets
 
 ### 🎴 [Inscryption]
-Jeu de cartes stratégique en Java avec système de combat, gestion de ressources et IA. Tests JUnit complets et architecture orientée objet rigoureuse.
 
-**Tech:** Java • JUnit • Git
+Projet académique réalisé en Java : développement d'un jeu de cartes stratégique avec système de combat, gestion de ressources et intelligence artificielle.
+
+Le projet met en pratique la programmation orientée objet, la conception UML et les tests unitaires avec JUnit.
+
+**Technologies :** Java • JUnit • Git
 
 ---
 
 ### 🚀 [Project Stargate]
-Système complet de gestion de missions spatiales en C# WinForms. 7 modules fonctionnels, base SQLite, authentification et rapports PDF.
 
-**Tech:** C# • WinForms • SQLite • SQL
+Projet académique réalisé en C# avec WinForms : développement d'une application de gestion de missions spatiales.
 
----
+Le projet comprend une interface graphique, une base de données SQLite, un système d'authentification et des fonctionnalités de gestion et de génération de rapports.
 
-## 📊 Stats
-
-- **Projets:** 2 majeurs + apprentissage
-- **Tests:** 80%+ couverture moyenne
-- **Commits:** Réguliers et significatifs
+**Technologies :** C# • WinForms • SQLite • SQL
 
 ---
 
 ## 📧 Contact
 
-**Email:** votre.email@domain.com  
-**LinkedIn:** [Profil](https://linkedin.com/in/votre-profil)  
-**GitHub:** [@votre-username](https://github.com/username)
+**Email :** mounirchargui97@gmail.com
+
+**GitHub :** [@mchargui212](https://github.com/mchargui212)
