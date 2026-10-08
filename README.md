@@ -1,8 +1,8 @@
-# 👋 Chargui
+# 👋 Mounir Chargui
 
-**💻 Étudiant en BUT Informatique | Java & C# | 🎯 POO • Architecture • Bases de données | 📍 Strasbourg**
+💻 Étudiant en BUT Informatique | Java & C# | 🎯 POO • Architecture • Bases de données | 📍 Strasbourg
 
----
+🔎 **À la recherche d'un stage** (période : à compléter)
 
 ## À propos
 
@@ -10,42 +10,31 @@
 
 Je cherche à développer mes compétences à travers des projets académiques et personnels, notamment en Java, C# et bases de données.
 
----
-
 ## 🛠️ Compétences
 
-**Langages :** Java • C# • Python • SQL
-
-**Outils :** Git • JUnit • Maven • SQLite • WinForms
-
-**Concepts :** POO • UML • Design Patterns • Tests unitaires • Architecture MVC
-
----
+- **Langages** : Java • C# • Python • SQL
+- **Outils** : Git • JUnit • Maven • SQLite • WinForms
+- **Concepts** : POO • UML • Design Patterns • Tests unitaires • Architecture MVC
 
 ## 📂 Projets
 
-### 🎴 [Inscryption]
+### 🎴 [Inscryption](https://github.com/mchargui212/project-inscryption)
 
 Projet académique réalisé en Java : développement d'un jeu de cartes stratégique avec système de combat, gestion de ressources et intelligence artificielle.
 
 Le projet met en pratique la programmation orientée objet, la conception UML et les tests unitaires avec JUnit.
 
-**Technologies :** Java • JUnit • Git
+**Technologies** : Java • JUnit • Git
 
----
-
-### 🚀 [Project Stargate]
+### 🚀 [Project Stargate](https://github.com/mchargui212/project-stargate)
 
 Projet académique réalisé en C# avec WinForms : développement d'une application de gestion de missions spatiales.
 
 Le projet comprend une interface graphique, une base de données SQLite, un système d'authentification et des fonctionnalités de gestion et de génération de rapports.
 
-**Technologies :** C# • WinForms • SQLite • SQL
-
----
+**Technologies** : C# • WinForms • SQLite • SQL
 
 ## 📧 Contact
 
-**Email :** mounirchargui97@gmail.com
-
-**GitHub :** [@mchargui212](https://github.com/mchargui212)
+- **Email** : mounirchargui97@gmail.com
+- **GitHub** : [@mchargui212](https://github.com/mchargui212)
